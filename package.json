@@ -57,7 +57,7 @@
   "dependencies": {
     "@prisma/client": "^5.21.1",
     "api-discord-types": "^1.0.1",
-    "discord-api-types": "^0.37.115",
+    "discord-api-types": "^0.37.120",
     "dotenv": "^16.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
